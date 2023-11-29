@@ -1,0 +1,14 @@
+.pos-click
+.neg-click {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.pos-click {
+    background-color: black;
+    color: white;
+}
+
+.neg-click {
+    background-color: yellow;
+}
